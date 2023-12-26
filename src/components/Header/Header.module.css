@@ -1,0 +1,9 @@
+.headerWrapper {
+    font-size: 1.2vw;
+}
+
+.headerWrapper svg {
+    margin: 0 0.5vw 0 3vw;
+    height: 1.2vw;
+    width: 1.2vw;
+}

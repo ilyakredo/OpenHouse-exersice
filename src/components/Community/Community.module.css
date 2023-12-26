@@ -1,0 +1,30 @@
+.community {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.communityBody {
+    position: relative;
+}
+
+.community img {
+    max-width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.community h2 {
+    margin-bottom: 5px;
+}
+
+.community p {
+    color: #888;
+}
+
+.price {
+    font-weight: 700;
+}
+
+
