@@ -14,7 +14,7 @@ const Header: React.FC = () => {
   return (
     <Navbar className={classes.headerWrapper} bg="dark" variant="dark" expand="md" sticky="top">
         <Container fluid="md">
-        <Navbar.Brand style={{ fontSize: '2.5vw' }}>Communities</Navbar.Brand>
+        <Navbar.Brand>Communities</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
         <Nav>
